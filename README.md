@@ -11,9 +11,11 @@ The KdUINO Data Analysis Notebook is a Jupyter Notebook hosted by Google Colab d
 This Notebook works with different versions of KdUINO:
 
 *   KduPRO
+*   KduPRO-Multi
 *   KduSTICK
 *   KduMOD Professional
 *   KduMOD Low-Cost
+*   KdUINO
 
 
 ## Usage
@@ -32,4 +34,14 @@ Follow the instructions of the Notebook to analyse your data.
 <img width="150" src="./docs/img_docs/logo.png">
 </p>
 
+
 This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 776480 ([MONOCLE](https://monocle-h2020.eu/)).
+
+<p align="center">
+<img width="100" src="./docs/img_docs/logo_pitacora.png">
+<img width="350" src="./docs/img_docs/logos_funding_PITACORA.png">
+</p>
+
+Esta publicación es parte del proyecto TED2021-129776B-C22, financiado por MCIN/AEI/10.13039/501100011033 y por la “Unión Europea NextGenerationEU/PRTR”
+Grant TED2021-129776B-C22 funded by MCIN/AEI/10.13039/501100011033 and by the “European Union NextGenerationEU/PRTR.
+
